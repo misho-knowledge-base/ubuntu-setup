@@ -1,6 +1,6 @@
 Home: [ubuntu-setup](README.md)
 
-# Ajust keyboard shortcuts for workspaces 
+# Adjust keyboard shortcuts for workspaces 
 
 Following commands are for my favourite keyboard shortcuts. You can adapt it to your needs easily.
 ```bash
