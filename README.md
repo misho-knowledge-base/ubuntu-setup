@@ -7,3 +7,4 @@
 
 **Terminal**
 - [Adding Git branch name and some colors](git-branch-name-and-colors.md)
+- [Git aliases](git-aliases.md)
