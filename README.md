@@ -8,3 +8,6 @@
 **Terminal**
 - [Adding Git branch name and some colors](git-branch-name-and-colors.md)
 - [Git aliases](git-aliases.md)
+
+**Useful tips**
+- [Android Studio: /dev/kvm device permission denied](https://stackoverflow.com/questions/37300811/android-studio-dev-kvm-device-permission-denied/45749003#45749003)
