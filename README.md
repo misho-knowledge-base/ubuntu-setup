@@ -5,6 +5,7 @@
 - [Force alt + tab to switch only on current workspace](switch-only-on-current-workspace.md)
 - [Adjust keyboard shortcuts for workspaces](workspace-keyboard-shortcuts.md)
 - [Redshift: Installation](redshift-installation.md)
+- [The Great Suspender Chrome extension](thegreatsuspender.md)
 
 **Terminal**
 - [Adding Git branch name and some colors](git-branch-name-and-colors.md)
